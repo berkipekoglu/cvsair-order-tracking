@@ -1,6 +1,6 @@
 # cvsair
 
-A new Flutter project.
+CVS Air Order Tracking UI
 
 ## Getting Started
 
